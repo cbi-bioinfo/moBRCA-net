@@ -37,4 +37,4 @@ LumA,LumB,Her2,Basal,Normal
 
 
 ## Contact
-If you have any question or problem, please send an email to **miniymay AT sookmyung.ac.kr**
+If you have any question or problem, please send an email to **joungmin AT vt.edu**
