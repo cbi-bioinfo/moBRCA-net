@@ -33,7 +33,7 @@ LumA,LumB,Her2,Basal,Normal
 
 2. Use **"run_moBRCA-net.sh"** to classify subtypes in multi-omics dataset.
 
-3. You will get an output **"prediction.csv"** with classified subtypes for test dataset, and an output **"attn_score_eachOmics.csv"** with the relative importance values (attention scores) measured by BRCAnet for each omics features.
+3. You will get an output **"prediction.csv"** with classified subtypes for test dataset, and an output **"attn_score_eachOmics.csv"** with the relative importance values (attention scores) measured by moBRCA-net for each omics features.
 
 
 ## Contact
