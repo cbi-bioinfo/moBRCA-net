@@ -35,6 +35,8 @@ LumA,LumB,Her2,Basal,Normal
 
 3. You will get an output **"prediction.csv"** with classified subtypes for test dataset, and an output **"attn_score_eachOmics.csv"** with the relative importance values (attention scores) measured by moBRCA-net for each omics features.
 
+## Conditional variational autoencoder for data augmentation used in the experiment
+* cvae_generator.py
 
 ## Contact
 If you have any question or problem, please send an email to **joungmin AT vt.edu**
